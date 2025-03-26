@@ -1,0 +1,13 @@
+---
+title: Blog
+---
+
+## Using Jeff Leek's Advice to Writing a Paper
+
+### 2025-03-25
+
+As someone who is about to undertake writing my first first-author paper, Jeff Leek’s chapter in *How to be a Modern Scientist* about paper writing was extremely insightful. A few key takeaways that I got were that there are easier ways to control versions in the age of the cloud. Historically any paper that I have been a co-author on has used Microsoft Word and I listened to countless complaints from coworkers about having to try to merge versions or when someone edited an old version instead of the current version. Following Jeff Leek’s suggestion of using Google Docs, and some research to see that we can integrate Endnote into Google, I have convinced myself (and maybe more importantly, convinced my boss) into deciding that we should be writing manuscripts on Google Drive.
+
+The other big takeaway I got from Jeff Leek was to make the figures and to write around them because then you can craft the story that the data tells. Something that one of my mentors always said is that someone should be able to look at all your figures and know the main points you are making without needing to read your paper. It makes sense that if your main points should be conveyed completely by your paper that you should write the paper around the figures. I think that if you build your figures as you generate data and before you begin writing, it can help with knowing when you have a complete enough story to begin writing. Jeff Leek says that the more you write and publish the better your internal clock is for knowing when to stop generating data and start writing, but I think looking at the story you can lay out with your data can be a good proxy to know when it’s time to write.
+
+I’m excited to undertake my own manuscript and will be keeping the ideas from Jeff Leek in mind as I move forward with writing!
